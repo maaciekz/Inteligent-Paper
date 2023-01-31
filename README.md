@@ -14,7 +14,7 @@ Pix2pix is an image-to-image translation algorithm. It allows you to turn a sour
 
 ![10103_AB](https://user-images.githubusercontent.com/40691316/215875303-5ba19288-9ca5-444a-b393-819a0291b6aa.jpg)
 <br>
-Picture from Kaggle data set available at <a href="https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset">here.</a> <br>
+Picture from Kaggle dataset available at <a href="https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset">here.</a> <br>
 <br>
 Source:
 <ul>
