@@ -20,9 +20,9 @@ Source:<br>
 Test test<br>
 Source:<br>
 <ul>
-  <li> <a href="https://www.bareconductive.com/"> Bare Conductive</a></li>
-  <li>  <a href="https://www.bareconductive.com/pages/what-is-bare-conductive">What Is Bare Conductive</a></li>
-  <li>  <a href="https://www.bareconductive.com/pages/touch-board-get-started">Touch Board: Get Started – Bare Conductive</a></li>
+  <li> <a href="https://quickdraw.withgoogle.com/">Quick, Draw! (quickdraw.withgoogle.com)</a></li>
+  <li>  <a href="https://experiments.withgoogle.com/quick-draw">Quick, Draw! by Google Creative Lab</a></li>
+  <li>  <a href="https://thecodingtrain.com/challenges/122-quick-draw">Quick, Draw! / The Coding Train</a></li>
 </ul>  
 <h2> Data preparation </h2>
 
