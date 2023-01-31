@@ -2,6 +2,10 @@
 Generate Pix2Pix draw using data from touchboard sensor
 <h2> Idea </h2>
 Test test
+Source:
+<a href="www.onet.pl"> Bare Conductive</a>
+What Is Bare Conductive
+Touch Board: Get Started – Bare Conductive
 <h2> Pix2Pix </h2>
 Test test
 <h2> Quick Draw </h2>
