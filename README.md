@@ -18,6 +18,7 @@ Source:<br>
 </ul>  
 <h2> Quick Draw </h2>
 Test test<br>
+Google's project Quick Draw is an online game in which players are presented with a simple doodle and they must draw it in the allotted time. The game records the drawings and stores them in a dataset. The dataset contains over 50 million drawings across 345 categories, such as animals, objects, and people. This data can be used to train machine learning models to recognize doodles and to create new applications.<br>
 Source:<br>
 <ul>
   <li> <a href="https://quickdraw.withgoogle.com/">Quick, Draw! (quickdraw.withgoogle.com)</a></li>
