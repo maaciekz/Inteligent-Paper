@@ -1,5 +1,5 @@
 # Inteligent-Paper
-Generate Pix2Pix draw using data from touchboard sensor
+Generate Pix2Pix drawning using data from touchboard sensor
 <h2> Idea </h2>
 Test test<br>
 Source:<br>
