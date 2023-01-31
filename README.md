@@ -4,8 +4,9 @@ Generate Pix2Pix draw using data from touchboard sensor
 Test test<br>
 Source:<br>
 <ul>
-  <li> <a href="https://scikit-learn.org/stable/modules/impute.html#impute"> Bare Conductive</a></li>
-  <li>  <a href="www.onet.pl"> Bare Conductive</a></li>
+  <li> <a href="https://www.bareconductive.com/"> Bare Conductive</a></li>
+  <li>  <a href="https://www.bareconductive.com/pages/what-is-bare-conductive">What Is Bare Conductive</a></li>
+  <li>  <a href="https://www.bareconductive.com/pages/touch-board-get-started">Touch Board: Get Started – Bare Conductive</a></li>
 </ul>  
 <h2> Pix2Pix </h2>
 Test test
