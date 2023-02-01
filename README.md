@@ -46,9 +46,15 @@ As the second step, I created a mask to match the pixels from the drawing with t
 <h2> Training </h2>
 I have used the code provided on the TensorFlow tutorial page. You can see it <a href="https://www.tensorflow.org/tutorials/generative/pix2pix">here.</a> I required approximately 600 pairs of images in order to obtain a satisfactory result. Due to the inconsistency of the quality of quickDraw images, I had to manually verify a lot of them before I was able to create a satisfactory training dataset.<br>
 <br>
-<h2> Data from sensor </h2>
-Test test
+<h2> Data from sensor </h2><br>
+<br>
+The Touchboard communicates with a computer using a serial port. There is a standard program available on the BareConductive website that can be uploaded to the device. When an electrode is touched, the number of sensors is sent over the serial port. On the other side, there is a Python script listening to both devices (X-axis and Y-axis). When both devices are touched within 0.1 seconds of each other, it is considered true.<br>  
 <h2> Putting all together </h2>
 Test test
 <h2> Remaining work </h2>
-Test test
+<br>
+<ul>
+  <li>There is still a remaining "hardware" part that needs to be done with precision in order to avoid any interference between the two touch boards and to prevent any shaking from occurring.</li>
+  <li>To achieve stunning results, the quality of training and testing data should be improved. Ideally, more advanced datasets of drawing should be available.</li>
+ 
+</ul> 
