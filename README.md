@@ -23,7 +23,8 @@ Source:
   <li>  <a href="https://towardsdatascience.com/pix2pix-869c17900998">Pix2Pix by Connor Shorten </a></li>
   <li>  <a href="https://ml4a.github.io/guides/Pix2Pix/">Pix2Pix (ml4a.github.io)</a></li>
 </ul>  
-<h2> Quick Draw </h2>t<br>
+<h2> Quick Draw </h2>
+<br>
 Google's project Quick Draw is an online game in which players are presented with a simple doodle and they must draw it in the allotted time. The game records the drawings and stores them in a dataset. The dataset contains over 50 million drawings across 345 categories, such as animals, objects, and people. This data can be used to train machine learning models to recognize doodles and to create new applications.<br>
 <br>
 Source:<br>
