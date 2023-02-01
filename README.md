@@ -1,5 +1,5 @@
 # Inteligent-Paper
-Generate Pix2Pix drawning using data from touchboard sensor
+Generate Pix2Pix drawing using data from touchboard sensor
 <h2> Idea </h2>
 Touchboards are interactive devices that use electric paint to detect when someone touches them and then sends a signal to a connected device. When you connect paint to the sensors, the paint becomes the sensor. You can then touch wood or glass to trigger the sensor. There are lots of possibilities for creating interactive projects. Bare conductive is built with Arduino and has 13 input signals, meaning you can do 13 different things interactively. This is great for simple interaction. If you want to create a keyboard or musical instrument, though, 13 signals might not be enough. My idea was to connect two devices, one for the X axis and one for the Y axis. This gives us 13x13, which makes 169 points. If two sensors recognize a touch within a short amount of time, I consider it a true touch and set the signal. I thought that 13x13 might be enough for a simple scratch, though the quality would be quite poor. However, some generative algorithms, such as Pix2Pix, could help to improve this.<br>
 <br>
@@ -10,8 +10,8 @@ Source:<br>
   <li>  <a href="https://www.bareconductive.com/pages/touch-board-get-started">Touch Board: Get Started – Bare Conductive</a></li>
 </ul>  
 <h2> Pix2Pix </h2>
-Test test<br>
-Pix2pix is an image-to-image translation algorithm. It allows you to turn a source image into a target image using a deep learning model. The model uses a combination of convolutional neural networks to learn the mapping between the two images. It can be used to create realistic images from sketches, turn aerial photos into maps, or turn day photos into night photos.<br>
+<br>
+Pix2pix is an image-to-image translation algorithm. It allows you to turn a source image into a target image using a deep learning model. The model uses a combination of convolutional neural networks to learn the mapping between the two images. It can be used to create realistic images from sketches, turn aerial photos into maps, or turn day photos into night photos. Now there is a question about how to access a dataset for simple drawing. Fortunately, there is Quick Draw, which provides an easy way to do so.<br>
 
 ![10103_AB](https://user-images.githubusercontent.com/40691316/215875303-5ba19288-9ca5-444a-b393-819a0291b6aa.jpg)
 <br>
