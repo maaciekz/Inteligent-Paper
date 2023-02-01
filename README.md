@@ -36,11 +36,12 @@ Source:<br>
 <h2> Data preparation </h2>
 <br>
 For training purposes, I need to prepare pairs of pictures: the left one is the target drawing, and the right one is the source, which is the expected signal from the touchboard. I have used the Quick Draw dataset in NDJSON format and converted it to a picture using the Python package Cairo.<br>
+<br>
 
 ![6456634324811776](https://user-images.githubusercontent.com/40691316/215863505-edfd764a-0e36-47d9-9091-1deb0f0471b8.jpg)
 
-Second step was to create mask which 
-
+As the second step, I created a mask to match the pixels from the drawing with the X and Y axes. To do this, I simply used the logical_and function from NumPy on two arrays.<br>
+<br>
 ![6456634324811776 - Copy](https://user-images.githubusercontent.com/40691316/215863552-c89f43ba-f5dd-45a8-b6d7-2d42690065f1.jpg)
 <h2> Training </h2>
 Test test<>
