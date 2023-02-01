@@ -1,7 +1,7 @@
 # Inteligent-Paper
 Generate Pix2Pix drawning using data from touchboard sensor
 <h2> Idea </h2>
-Test test<br>
+Touchboards are interactive devices that use electric paint to detect when someone touches them and then sends a signal to a connected device. When you connect paint to the sensors, the paint becomes the sensor. You can then touch wood or glass to trigger the sensor. There are lots of possibilities for creating interactive projects. Bare conductive is built with Arduino and has 13 input signals, meaning you can do 13 different things interactively. This is great for simple interaction. If you want to create a keyboard or musical instrument, though, 13 signals might not be enough. My idea was to connect two devices, one for the X axis and one for the Y axis. This gives us 13x13, which makes 169 points. If two sensors recognize a touch within a short amount of time, I consider it a true touch and set the signal. I thought that 13x13 might be enough for a simple scratch, though the quality would be quite poor. However, some generative algorithms, such as Pix2Pix, could help to improve this.<br>
 Source:<br>
 <ul>
   <li> <a href="https://www.bareconductive.com/"> Bare Conductive</a></li>
