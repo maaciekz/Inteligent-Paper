@@ -44,7 +44,7 @@ As the second step, I created a mask to match the pixels from the drawing with t
 <br>
 ![6456634324811776 - Copy](https://user-images.githubusercontent.com/40691316/215863552-c89f43ba-f5dd-45a8-b6d7-2d42690065f1.jpg)
 <h2> Training </h2>
-I have used the code provided on the TensorFlow tutorial page You can see it <a href="https://www.tensorflow.org/tutorials/generative/pix2pix">here.</a> I required approximately 600 pairs of images in order to obtain a satisfactory result. Due to the inconsistency of the quality of quickDraw images, I had to manually verify a lot of them before I was able to create a satisfactory training dataset.<br>
+I have used the code provided on the TensorFlow tutorial page. You can see it <a href="https://www.tensorflow.org/tutorials/generative/pix2pix">here.</a> I required approximately 600 pairs of images in order to obtain a satisfactory result. Due to the inconsistency of the quality of quickDraw images, I had to manually verify a lot of them before I was able to create a satisfactory training dataset.<br>
 <br>
 <h2> Data from sensor </h2>
 Test test
